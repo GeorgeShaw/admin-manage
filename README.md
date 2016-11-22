@@ -1,4 +1,4 @@
-#基于springboot+angular2技术和领域驱动设计思想的通用后台管理系统##
+#基于springboot+rest+angular2技术和领域驱动设计思想的通用后台管理系统##
 
 
 ###交流群:245130488###
@@ -23,10 +23,7 @@
 ![输入图片说明](http://git.oschina.net/uploads/images/2016/1103/205903_f9cbaba5_20686.png "在这里输入图片标题")
 
 
-##演示地址
-[在线演示](http://bumishi.tech/)
-
-账号密码：root/root，无任何权限限制
+##此分支目前已暂停维护，master分支改为thymeleaf模板
 
 ###开发阶段运行###
 
